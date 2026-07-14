@@ -1,4 +1,6 @@
 # wazuh-soc-home-lab
+Disclaimer: This project was created for educational and defensive security purposes only. All testing was performed within a controlled home lab environment.
+
 Wazuh-based SOC home lab built on Ubuntu and Windows 11 with Sysmon integration, endpoint monitoring, threat hunting, and security event analysis.
 This project documents the deployment of a Wazuh-based Security Operations Center (SOC) home lab built using VMware, Ubuntu Server, and a Windows 11 endpoint.
 
