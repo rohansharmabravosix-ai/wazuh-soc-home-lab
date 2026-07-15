@@ -1,0 +1,15 @@
+sysmonconfig.xml
+
+<Sysmon schemaversion="4.90">
+
+  <EventFiltering>
+
+    <ProcessCreate onmatch="include"/>
+
+    <NetworkConnect onmatch="include"/>
+
+    <FileCreate onmatch="include"/>
+
+  </EventFiltering>
+
+</Sysmon>
